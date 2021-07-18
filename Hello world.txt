@@ -1,1 +1,7 @@
+<<<<<<< Updated upstream
 print("Hello World");
+=======
+print("Hello World");
+print("Hello World to everybody");
+print("Hello World to anybody");
+>>>>>>> Stashed changes
